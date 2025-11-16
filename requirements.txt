@@ -1,1 +1,8 @@
 langchain
+python-dotenv
+# this library is used to load whatever is in the .env file
+langchain_community 
+pypdf
+beautifulsoup4
+arxivpy
+wikipedia
